@@ -15,7 +15,7 @@ body {
     
     /* SEKSI INI UNTUK GAMBAR LATAR BELAKANG ANDA */
     /* Ganti 'nama-file-gambar-anda.jpg' dengan nama file gambar yang Anda upload */
-    background-image: url('background github'); 
+    background-image: url('background github .jpeg'); 
     
     /* Membuat gambar menutupi seluruh area dengan halus */
     background-size: cover; 
